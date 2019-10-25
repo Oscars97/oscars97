@@ -1,0 +1,76 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    padding: 30px;
+  }
+  
+  .flex-container > div {
+    line-height: 30px;
+    padding: 30px;
+  }
+  #divTitulo{
+      border: solid black 3px;
+      margin-top: 30px;
+  }
+  #divTitulo:hover{
+    background: black;
+    color: white;
+}
+  #titulo{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+  }
+    #infoInstagram{
+        border: solid black 2px;
+        text-align: center;
+        width: 300px;
+        margin-top: 20px;
+        height: 280px;
+        margin-left: 30px;
+    }
+    #logoInstagram{
+        width: 200px;
+        margin-top: 14px;
+    }
+    #linkInstagram{
+        color: #5F9EA0;
+    }
+    #infoWhatsapp{
+        border: solid black 2px;
+        text-align: center;
+        width: 300px;
+        height: 280px;
+        margin-top: 50px;
+        margin-left: 30px;
+    }
+    #logoWhatsapp{
+        width: 200px;
+        height: 150px;
+        margin-top: 10px;
+    }
+    #linkWhatsapp{
+        margin-top: 100px;
+        color: #5F9EA0;
+    }
+    #infoFacebook{
+        border: solid black 2px;
+        text-align: center;
+        width: 300px;
+        height: 280px;
+        margin-top: 50px;
+        
+    }
+    #logoFacebook{
+        width: 200px;
+        height: 150px;
+        margin-top: 5px;
+        margin-left: 5px;
+    }
+    #linkFacebook{
+        color: #5F9EA0;
+    }
+    .socialNetwork:hover{
+        background-color: black;
+    }
+
