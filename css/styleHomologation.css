@@ -1,9 +1,10 @@
 #homologation{
     border: black solid 2px;
     margin-top: 20px;
-    padding: 15px;
-    
+    padding: 10px;
+    width: 50%;
     border-radius: 10px;
+    margin-left: 320px;
 }
 #titleContactUs{
     margin-left: 100px;
@@ -24,21 +25,12 @@
     margin-top: 20px;
 }
 #logoWhatsApp{
-    width: 300px;
+    width: 250px;
     height: 250px;
-    margin-top: 20px;
-    margin-left: 350px;
+    margin-left: 200px;
+    margin-bottom: 20px;
 }
-#contacto{
-    border: solid black 2px;
-    margin-left: 30px;
-    width: 95%;
-    padding-left: 50px;
-    padding-bottom: 50px;
-    padding-top: 20px;
-    background: #ffffffdc;
-    border-radius: 10px;
-}
+
 #contacto:hover{
     border: solid white 2px;
     color: white;

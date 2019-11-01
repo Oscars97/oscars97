@@ -10,10 +10,12 @@ div.gallery {
 .imgForSale{
   position: initial;
 }
+
 div.gallery:hover {
   border: 2px solid #5F9EA0;
   background: black;
   color: white;
+  
 }
 
 div.gallery img {
